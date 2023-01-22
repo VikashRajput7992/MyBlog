@@ -1,0 +1,20 @@
+.contact-form{
+    width: 100%;
+}
+
+.contact-content {
+    margin-top: 5vh;
+}
+.contact-content h1{
+    color: rgb(86, 85, 85);
+}
+
+.form-box button{
+    border-color: rgb(94, 94, 94);
+    color: rgb(43, 42, 42);
+}
+
+.footer{
+    position: absolute;
+    top: 95vh;
+}

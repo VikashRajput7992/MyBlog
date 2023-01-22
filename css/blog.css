@@ -1,0 +1,36 @@
+.post-img{
+    height: 60vh;
+}
+
+.post-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.blog-content h1{
+    text-align: center;
+}
+
+.blogpost-meta{
+    display: flex;
+    justify-content: space-between;
+}
+
+.auther-info{
+    margin: 10px 0px;
+}
+.auther-info div{
+    font-family: var(--font3);
+    margin: 2px 0px;
+}
+.auther-info-div1{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.social-media{
+    margin-right: 20px;
+    align-self: center;
+}
+.social-media svg{
+    margin: 0px 5px;
+}
